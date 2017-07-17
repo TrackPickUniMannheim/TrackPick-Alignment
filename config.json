@@ -1,0 +1,14 @@
+{
+  "glass": {
+    "accel": "SDC_ad5f73ab9fd570bSensorAccelerometerData",
+    "gyro": "SDC_ad5f73ab9fd570bSensorGyroscopeData"
+  },
+  "phone": {
+    "accel": "SDC_307558348fc812ceSensorAccelerometerData",
+    "gyro": "SDC_307558348fc812ceSensorGyroscopeData"
+  },
+  "watch": {
+    "accel": "SDC_2b6033944c90add1SensorAccelerometerData",
+    "gyro": "SDC_2b6033944c90add1SensorGyroscopeData"
+  }
+}
